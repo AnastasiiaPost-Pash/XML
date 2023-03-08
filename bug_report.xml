@@ -1,0 +1,11 @@
+<bugreport>
+  <preconditions>The website https://pro-test.qa.goit.ua/results is open in the browser</preconditions>
+  <stepstoreproduce> 
+    <1>Enter registration data</1>
+    <2>Click the login or registration button</2>
+    <3>Go to the (Materials) section</3>
+    <4>Click on the (More) button in the body of the page under Useful literature</4>
+  </stepstoreproduce>
+  <expectedresult>When you click on the (More) button in the body of the page under Useful literature, a full list opens</expectedresult>
+  <actualresult>When clicking on the (More) button, the full list of useful literature does not open</actualresult>
+</bugreport>
