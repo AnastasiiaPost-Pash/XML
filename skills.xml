@@ -1,7 +1,7 @@
-<skills>
+<xml>
 <basictheory>what is testing, bug reports, documentation, types, methods, testing areas, etc.</basictheory>
-</what is a client-server architecture>
-</HTTP methods for visiting the server>
-</what is JSON, XML. Their structure>
-</API testing via Postman (JS, API autotests) and other skills>
-</skills>
+<skills>what is a client-server architecture</skills>
+<skills>HTTP methods for visiting the server</skills>
+<skills>what is JSON, XML. Their structure</skills>
+<skills>API testing via Postman (JS, API autotests) and other skills</skills>
+</xml>
